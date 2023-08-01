@@ -1,4 +1,4 @@
-# Nerfies
+# Policy contrastive imitation learninng
 
 This is the repository that contains source code for the [PCIL website](https://pcil-web.github.io).
 
